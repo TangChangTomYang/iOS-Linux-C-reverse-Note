@@ -20,5 +20,6 @@
 * [003-Linux 相关](003-linux-xiang-guan.md)
 * [004-iOS 开发相关](004-ios-kai-fa-xiang-guan.md)
 * [005-iOS Reverse development](005-ios-reverse-development.md)
+  * [001-常用命令](005-ios-reverse-development/001chang-yong-ming-ling.md)
 * [006-HTML5相关](006-html5xiang-guan.md)
 
