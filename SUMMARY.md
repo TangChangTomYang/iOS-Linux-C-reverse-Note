@@ -42,6 +42,7 @@
     * [001-dumpdecrypted 砸壳原理](005-ios-reverse-development/013tuo-ke/001-dumpdecrypted-za-ke-yuan-li.md)
   * [014-theos](005-ios-reverse-development/014-theos.md)
   * [015-命令行工具开发](005-ios-reverse-development/015ming-ling-xing-gong-ju-kai-fa.md)
+    * [001-ldid 安装异常处理](005-ios-reverse-development/015ming-ling-xing-gong-ju-kai-fa/001-ldid-an-zhuang-yi-chang-chu-li.md)
   * [016-动态调试](005-ios-reverse-development/016dong-tai-diao-shi.md)
 * [006-HTML5相关](006-html5xiang-guan.md)
 
