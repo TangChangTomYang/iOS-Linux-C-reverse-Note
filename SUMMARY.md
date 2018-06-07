@@ -35,5 +35,6 @@
   * [011- 常用终端文件编译指令](005-ios-reverse-development/011-chang-yong-zhong-duan-wen-jian-bian-yi-zhi-ling.md)
   * [012- 通用二进制文件\(Universal Binary\)](005-ios-reverse-development/012-tong-yong-er-jin-zhiwen-4ef628-universal-binary.md)
   * [013-脱壳](005-ios-reverse-development/013tuo-ke.md)
+  * [014-theos](005-ios-reverse-development/014-theos.md)
 * [006-HTML5相关](006-html5xiang-guan.md)
 
