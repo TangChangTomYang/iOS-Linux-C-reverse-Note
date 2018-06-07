@@ -37,5 +37,6 @@
   * [013-脱壳](005-ios-reverse-development/013tuo-ke.md)
   * [014-theos](005-ios-reverse-development/014-theos.md)
   * [015-命令行工具开发](005-ios-reverse-development/015ming-ling-xing-gong-ju-kai-fa.md)
+  * [016-动态调试](005-ios-reverse-development/016dong-tai-diao-shi.md)
 * [006-HTML5相关](006-html5xiang-guan.md)
 
