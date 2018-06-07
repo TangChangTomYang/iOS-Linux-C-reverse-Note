@@ -34,5 +34,6 @@
   * [010- 动态库共享缓存\(dyld shared cache\)](005-ios-reverse-development/010-dong-tai-ku-gong-xiang-huan-5b5828-dyld-shared-cache.md)
   * [011- 常用终端文件编译指令](005-ios-reverse-development/011-chang-yong-zhong-duan-wen-jian-bian-yi-zhi-ling.md)
   * [012- 通用二进制文件\(Universal Binary\)](005-ios-reverse-development/012-tong-yong-er-jin-zhiwen-4ef628-universal-binary.md)
+  * [013-脱壳](005-ios-reverse-development/013tuo-ke.md)
 * [006-HTML5相关](006-html5xiang-guan.md)
 
