@@ -18,6 +18,8 @@
   * [012-C语言混编汇编](001hui-bian-yu-yan-xiang-guan/012-cyu-yan-hun-bian-hui-bian.md)
 * [002-C语言相关](002-cyu-yan-xiang-guan.md)
 * [003-Linux 相关](003-linux-xiang-guan.md)
+  * [001-vim 操作](003-linux-xiang-guan/001-vim-cao-zuo.md)
+  * [002-makefile](003-linux-xiang-guan/002-makefile.md)
 * [004-iOS 开发相关](004-ios-kai-fa-xiang-guan.md)
 * [005-iOS Reverse development](005-ios-reverse-development.md)
   * [001-常用命令](005-ios-reverse-development/001chang-yong-ming-ling.md)
