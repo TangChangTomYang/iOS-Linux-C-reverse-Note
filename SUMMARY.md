@@ -28,5 +28,6 @@
   * [004-Cycript](005-ios-reverse-development/004-cycript.md)
   * [005- Reveal](005-ios-reverse-development/005-reveal.md)
   * [006-Mach-o文件](005-ios-reverse-development/006-mach-owen-jian.md)
+  * [007-逆向App 的思路](005-ios-reverse-development/007ni-xiang-app-de-si-lu.md)
 * [006-HTML5相关](006-html5xiang-guan.md)
 
