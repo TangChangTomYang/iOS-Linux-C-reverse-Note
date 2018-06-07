@@ -26,5 +26,6 @@
     * [001-SSH 常用操作](005-ios-reverse-development/003-ssh-yuan-cheng-deng-lu/001-ssh-chang-yong-cao-zuo.md)
     * [002-SSH 补充知识](005-ios-reverse-development/003-ssh-yuan-cheng-deng-lu/002-ssh-bu-chong-zhi-shi.md)
   * [004-Cycript](005-ios-reverse-development/004-cycript.md)
+  * [005- Reveal](005-ios-reverse-development/005-reveal.md)
 * [006-HTML5相关](006-html5xiang-guan.md)
 
