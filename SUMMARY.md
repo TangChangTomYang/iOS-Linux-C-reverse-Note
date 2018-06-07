@@ -39,6 +39,7 @@
   * [011- 常用终端文件编译指令](005-ios-reverse-development/011-chang-yong-zhong-duan-wen-jian-bian-yi-zhi-ling.md)
   * [012- 通用二进制文件\(Universal Binary\)](005-ios-reverse-development/012-tong-yong-er-jin-zhiwen-4ef628-universal-binary.md)
   * [013-脱壳](005-ios-reverse-development/013tuo-ke.md)
+    * [001-dumpdecrypted 砸壳原理](005-ios-reverse-development/013tuo-ke/001-dumpdecrypted-za-ke-yuan-li.md)
   * [014-theos](005-ios-reverse-development/014-theos.md)
   * [015-命令行工具开发](005-ios-reverse-development/015ming-ling-xing-gong-ju-kai-fa.md)
   * [016-动态调试](005-ios-reverse-development/016dong-tai-diao-shi.md)
