@@ -31,5 +31,6 @@
   * [007-逆向App 的思路](005-ios-reverse-development/007ni-xiang-app-de-si-lu.md)
   * [008-class-dump](005-ios-reverse-development/008-class-dump.md)
   * [009-Hopper 简单使用](005-ios-reverse-development/009-hopper-jian-dan-shi-yong.md)
+  * [010- 动态库共享缓存\(dyld shared cache\)](005-ios-reverse-development/010-dong-tai-ku-gong-xiang-huan-5b5828-dyld-shared-cache.md)
 * [006-HTML5相关](006-html5xiang-guan.md)
 
