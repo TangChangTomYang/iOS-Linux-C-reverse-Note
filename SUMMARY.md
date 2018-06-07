@@ -7,6 +7,7 @@
   * [001-汇编语言简介绍](001hui-bian-yu-yan-xiang-guan/001hui-bian-yu-yan-jian-jie-shao.md)
   * [002- 汇编语言学习--内存](001hui-bian-yu-yan-xiang-guan/002-hui-bian-yu-yan-xue-4e60-nei-cun.md)
   * [003-汇编语言--寄存器](001hui-bian-yu-yan-xiang-guan/003hui-bian-yu-8a00-ji-cun-qi.md)
+  * [004-汇编语言--CS 代码段寄存器](001hui-bian-yu-yan-xiang-guan/004hui-bian-yu-8a00-cs-dai-ma-duan-ji-cun-qi.md)
 * [002-C语言相关](002-cyu-yan-xiang-guan.md)
 * [003-Linux 相关](003-linux-xiang-guan.md)
 * [004-iOS 开发相关](004-ios-kai-fa-xiang-guan.md)
