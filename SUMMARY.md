@@ -21,5 +21,6 @@
 * [004-iOS 开发相关](004-ios-kai-fa-xiang-guan.md)
 * [005-iOS Reverse development](005-ios-reverse-development.md)
   * [001-常用命令](005-ios-reverse-development/001chang-yong-ming-ling.md)
+  * [002-搭建环境](005-ios-reverse-development/002da-jian-huan-jing.md)
 * [006-HTML5相关](006-html5xiang-guan.md)
 
