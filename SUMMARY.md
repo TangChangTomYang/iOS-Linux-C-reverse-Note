@@ -15,6 +15,7 @@
   * [009-汇编语言--编程](001hui-bian-yu-yan-xiang-guan/009hui-bian-yu-8a00-bian-cheng.md)
   * [010-汇编语言--栈平衡](001hui-bian-yu-yan-xiang-guan/010hui-bian-yu-8a00-zhan-ping-heng.md)
   * [011-win32、win64、AT&T及其他汇编](001hui-bian-yu-yan-xiang-guan/011-win32win64atandtji-qi-ta-hui-bian.md)
+  * [012-C语言混编汇编](001hui-bian-yu-yan-xiang-guan/012-cyu-yan-hun-bian-hui-bian.md)
 * [002-C语言相关](002-cyu-yan-xiang-guan.md)
 * [003-Linux 相关](003-linux-xiang-guan.md)
 * [004-iOS 开发相关](004-ios-kai-fa-xiang-guan.md)
