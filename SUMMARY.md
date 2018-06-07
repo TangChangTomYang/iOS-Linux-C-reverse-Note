@@ -9,6 +9,7 @@
   * [003-汇编语言--寄存器](001hui-bian-yu-yan-xiang-guan/003hui-bian-yu-8a00-ji-cun-qi.md)
   * [004-汇编语言--CS 代码段寄存器](001hui-bian-yu-yan-xiang-guan/004hui-bian-yu-8a00-cs-dai-ma-duan-ji-cun-qi.md)
   * [005-汇编语言 jmp 指令](001hui-bian-yu-yan-xiang-guan/005hui-bian-yu-yan-jmp-zhi-ling.md)
+  * [006-汇编语言--ds 寄存器](001hui-bian-yu-yan-xiang-guan/006hui-bian-yu-8a00-ds-ji-cun-qi.md)
 * [002-C语言相关](002-cyu-yan-xiang-guan.md)
 * [003-Linux 相关](003-linux-xiang-guan.md)
 * [004-iOS 开发相关](004-ios-kai-fa-xiang-guan.md)
