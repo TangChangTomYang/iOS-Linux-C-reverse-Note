@@ -23,5 +23,6 @@
   * [001-常用命令](005-ios-reverse-development/001chang-yong-ming-ling.md)
   * [002-搭建环境](005-ios-reverse-development/002da-jian-huan-jing.md)
   * [003-SSH 远程登录](005-ios-reverse-development/003-ssh-yuan-cheng-deng-lu.md)
+    * [001-SSH 常用操作](005-ios-reverse-development/003-ssh-yuan-cheng-deng-lu/001-ssh-chang-yong-cao-zuo.md)
 * [006-HTML5相关](006-html5xiang-guan.md)
 
