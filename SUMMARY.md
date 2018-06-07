@@ -12,6 +12,7 @@
   * [006-汇编语言--ds 寄存器](001hui-bian-yu-yan-xiang-guan/006hui-bian-yu-8a00-ds-ji-cun-qi.md)
   * [007-汇编语言--SS栈段寄存器](001hui-bian-yu-yan-xiang-guan/007hui-bian-yu-8a00-ss-zhan-duan-ji-cun-qi.md)
   * [008-汇编语言--中断](001hui-bian-yu-yan-xiang-guan/008hui-bian-yu-8a00-zhong-duan.md)
+  * [009-汇编语言--编程](001hui-bian-yu-yan-xiang-guan/009hui-bian-yu-8a00-bian-cheng.md)
 * [002-C语言相关](002-cyu-yan-xiang-guan.md)
 * [003-Linux 相关](003-linux-xiang-guan.md)
 * [004-iOS 开发相关](004-ios-kai-fa-xiang-guan.md)
