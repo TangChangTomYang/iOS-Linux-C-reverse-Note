@@ -39,10 +39,10 @@ lipo -info abc_i386
 ```
 输出
 
-```
-Non-fat file: abc_i386 is architecture: i386
+    ```
+    Non-fat file: abc_i386 is architecture: i386
 
-```
+    ```
 
 ####三、将多个Mach-o文件合并成一个 胖二进制文件(通用二进制文件)
 ```
