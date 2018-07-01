@@ -23,6 +23,7 @@
   * [003-软件安装与卸载](003-linux-xiang-guan/003ruan-jian-an-zhuang-yu-xie-zai.md)
   * [004-环境变量](003-linux-xiang-guan/004huan-jing-bian-liang.md)
 * [004-iOS 开发相关](004-ios-kai-fa-xiang-guan.md)
+  * [001-推送通知](004-ios-kai-fa-xiang-guan/001tui-song-tong-zhi.md)
 * [005-iOS Reverse development](005-ios-reverse-development.md)
   * [001-常用命令](005-ios-reverse-development/001chang-yong-ming-ling.md)
   * [002-搭建环境](005-ios-reverse-development/002da-jian-huan-jing.md)
