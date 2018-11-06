@@ -1,17 +1,20 @@
-- file 命令
+##逆向工程常用命令
+
+
+#### 一、file 命令 （查看文件信息）
 ```
 file testfile // 查看文件的信息
 ```
 
-- lipo 命令
+
+#### 二、lipo 命令 （文件架构操作相关信息）
 
     ```
     lipo -info abc // 查看abc 文件的架构信息
     lipo -thin arm64 
 
     ```
-
-- otool 命令
+#### 三、otool 命令 （mach-o 文件相关信息）
 
     ```
     otool  // 直接在终端上输入 otool 命令查看     otool 命令的常用用法
