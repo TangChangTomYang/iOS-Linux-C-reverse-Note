@@ -1,4 +1,4 @@
 # My Awesome Book
 
 
-![](assets/ios note.png)
+![](/assets/ios note.png)
